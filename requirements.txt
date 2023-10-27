@@ -1,0 +1,4 @@
+requests
+UnityPy==1.9.26
+xxhash
+ffmpeg-python
